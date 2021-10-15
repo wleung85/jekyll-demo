@@ -15,3 +15,8 @@ Default JEKYLL_ENV is development and is available in liquid using `jekyll.envir
 To deploy for production:
 `JEKYLL_ENV=production bundle exec jekyll build`
 and then copy the contents of _site to the server.
+
+# GitHub Page
+
+This website is deployed on the GitHub Pages and can be found here: https://wleung85.github.io/jekyll-demo/
+Changes made to successfully deploy on the platform can be seen on the branch: https://github.com/wleung85/jekyll-demo/tree/gh-pages
